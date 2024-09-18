@@ -7,4 +7,5 @@ That way one can always see the share of renewable energy at a glance. The user 
 by for example not doing the laundry if the traffic light is red. In a more scientic usecase a user can 
 wait to send computation heavy jobs to a cluster, if the results are not urgent. 
 
+I do know that Apple already provides a widget with the same functionaly (showing share of renewable energy in the power grid) but it is not active in Germany right now.
 
